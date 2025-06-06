@@ -1,0 +1,2 @@
+# MACSCashRegisterProject
+MONE
