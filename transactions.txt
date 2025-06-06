@@ -1,0 +1,36 @@
+=== Transaction Record ===
+Date & Time: 2025/06/06 20:00:19
+Username: MIGGY
+Items Purchased:
+ - Chicken Biryani | Quantity: 2 | Price: PHP 170.0
+ - Beef Biryani | Quantity: 2 | Price: PHP 200.0
+ - Chicken Shawarma | Quantity: 2 | Price: PHP 120.0
+ - Khuboz Bread | Quantity: 3 | Price: PHP 35.0
+Total Amount: PHP 922.25
+Payment Amount: PHP 1000.0
+Change: PHP 77.75
+===========================
+
+=== Transaction Record ===
+Date & Time: 2025/06/06 20:00:45
+Username: MIGGY
+Items Purchased:
+ - Chicken Biryani | Quantity: 2 | Price: PHP 170.0
+Total Amount: PHP 340.0
+Payment Amount: PHP 400.0
+Change: PHP 60.0
+===========================
+
+=== Transaction Record ===
+Date & Time: 2025/06/06 20:03:03
+Username: RAPHH
+Items Purchased:
+ - Beef Biryani | Quantity: 2 | Price: PHP 200.0
+ - Khuboz Bread | Quantity: 6 | Price: PHP 35.0
+ - Toum (Garlic Sauce) | Quantity: 2 | Price: PHP 10.0
+ - Chicken Shawarma | Quantity: 2 | Price: PHP 120.0
+Total Amount: PHP 870.0
+Payment Amount: PHP 900.0
+Change: PHP 30.0
+===========================
+
